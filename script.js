@@ -1,4 +1,4 @@
-var answer_1 = prompt("Will you go out with me today? (yes/no |no capitalization)");
+var answer_1 = prompt("Will you go out with me today? (Yes/No)");
 if (answer_1 === "yes") {
     alert ("YAYYYYYYYYY!!! I'm going out with you!");
     alert ("Please text me because i dont have access to this yet")
